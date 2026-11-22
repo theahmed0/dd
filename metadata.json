@@ -1,0 +1,6 @@
+{
+  "name": "سماء الدرون 3D — خريطة العالم بالمقياس الواقعي",
+  "description": "استكشف كوكب الأرض ثلاثي الأبعاد عبر طائرة درون تطير بسرعة الحياة الواقعية والمقياس الجغرافي الحقيقي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

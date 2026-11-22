@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body,
+  #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Cairo', system-ui, -apple-system, sans-serif;
+    background-color: #05080f;
+  }
+}
+
+.font-hud {
+  font-family: 'Chakra Petch', 'Cairo', sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+.font-telemetry {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}
